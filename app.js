@@ -15,7 +15,7 @@ console.log("Skor " + [nama] + " : B");
 else if ((nilai >= 50 ) && (nilai <= 67)) {
 console.log("Skor " + [nama] + " : C");
 }
-else if ((nilai >= 31 ) && (Nilai <= 49)) {
+else if ((nilai >= 31 ) && (nilai <= 49)) {
 console.log("Skor " + [nama] + " : D");
 }
 else if ((nilai >= 0 ) && (nilai <= 30)) {
