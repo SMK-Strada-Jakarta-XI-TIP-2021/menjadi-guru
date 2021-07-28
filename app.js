@@ -1,6 +1,5 @@
 // Kerjakan kode kalian di bawah ini
-// Kerjakan kode kalian di bawah ini
-var namaSiswa = "rivaldo";
+var namaSiswa = ("rivaldo");
 var nilaiSiswa = 80;
 if (0 > 100) {
     console.log ("Nilai Kamu A")
