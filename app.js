@@ -1,7 +1,7 @@
 /*Kerjakan kode kalian di bawah ini*/
 
 var nama = 'sulthan';
-var nilai= 80;
+var nilai= -2;
 
 if (nilai < 0 || nilai > 100) {
     console.log(nama+ ' ' + "nilai kamu gak valid nih, periksa lagi ya!");
