@@ -1,6 +1,6 @@
 // Kerjakan kode kalian di bawah ini
 var namaSiswa = "Adri Gunawan";
-var nilaiSiswa = 70;
+var nilaiSiswa = 40;
 console.log ("===== Hasil Nilai Ujian SMK Strada =====")
 if (nilaiSiswa <= 0) {
     console.log (namaSiswa + " " + "=" + " " + " Nilai Invalid")
