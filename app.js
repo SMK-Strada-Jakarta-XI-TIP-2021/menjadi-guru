@@ -1,6 +1,6 @@
 // Kerjakan kode kalian di bawah ini
 let namaSiswa = 'Joaquin';
-let nilaiSiswa = 100;
+let nilaiSiswa = 50;
 
 if (nilaiSiswa <= 0) {
     console.log (namaSiswa + " Nilai Invalid")
